@@ -80,6 +80,7 @@
         </a>
       </li>
     </ul>
+    <router-link to="/test">跳转</router-link>
   </div>
 </template>
 
